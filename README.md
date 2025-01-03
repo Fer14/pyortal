@@ -3,7 +3,13 @@
 ![](logo.jpeg)
 
 
-[Watch the gameplay video](vid3d.mp4)
+
+
+https://github.com/user-attachments/assets/52e2b193-b5b4-4d5e-bdc4-a2dafbf39e59
+
+
+
+
 
 ## How to run
 
@@ -26,7 +32,15 @@ python app.py --mode 3
 Replace 3 with 2 for 2D mode.
 
 
-[Watch the gameplay video](vid2d.mp4)
+
+
+
+https://github.com/user-attachments/assets/33ddb2ec-e688-4a29-a00e-c5ae0f598944
+
+
+
+
+
 
 
 
