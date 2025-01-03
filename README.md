@@ -2,8 +2,10 @@
 
 ![](logo.jpeg)
 
-## How to run
 
+[Watch the gameplay video](vid3d.mp4)
+
+## How to run
 
 1. Clone the repository:
 ```bash
@@ -22,6 +24,10 @@ python app.py --mode 3
 ```
 
 Replace 3 with 2 for 2D mode.
+
+
+[Watch the gameplay video](vid2d.mp4)
+
 
 
 ##  How to Play
